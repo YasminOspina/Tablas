@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    background-color: lightslategray;
+    color:white
+}
+th{
+    background-color: limegreen;
+    color:white
+}
+td{
+    background-color: darkslateblue;
+    color:white
+}
+i{
+    background-color: darkorange;
+    color:white
+}
